@@ -1,0 +1,52 @@
+#jumbotron{
+    padding: 15%;
+}
+.display-4{
+    text-align: center;
+    color: white;
+}
+.lead{
+    text-align: center;
+    color: white;
+}
+.btn1{
+    font-size: 20%;
+    color: white;
+    text-align: center;
+}
+.btn2{
+    text-align: center;
+}
+#btn2{
+    text-align: center;
+    border-radius: 50px;
+
+}
+.tulisan1{
+    text-align: center;
+    padding: 5%;
+    background-color: yellow;
+}
+/* .col p{
+    margin-top: 10%;
+} */
+.tulisan2{
+    text-align: center;
+    padding: 5%;
+    background-color: yellow;
+}
+.con1{
+    background-image: url(../D-7/img/edu2.png);
+    color: white;
+    font-weight: bolder;
+}
+.con2{
+    background-image: url(../D-7/img/edu1.jpg);
+    color: white;
+    font-weight: bolder;
+}
+.tulisan3{
+    text-align: center;
+    padding: 5%;
+    background-color: yellow;
+}

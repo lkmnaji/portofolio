@@ -1,0 +1,18 @@
+.logo{
+    margin-left: 10%;
+}
+.menubar{
+    margin-left: 20%;
+}
+
+body{
+    background-color: whitesmoke;
+}
+.container{
+    background-image: url(../D-6/img/bg-graph.jpg);
+}
+.footer{
+    background-image: url(../D-6/img/footer-bg2.jpg);
+    padding: 130px;
+    text-align: center;
+}
